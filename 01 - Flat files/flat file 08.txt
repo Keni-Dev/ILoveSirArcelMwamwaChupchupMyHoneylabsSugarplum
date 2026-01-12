@@ -1,0 +1,12 @@
+TransID, Item, Value
+T001,    Sale, Y
+T001,    A,    3
+T001,    B,    2
+T001,    C,    2
+T002,    Sale, N
+T002,    A,    1
+T002,    D,    2
+T003,    Sale, Y
+T003,    D,    1
+T003,    A,    3
+T003,    C,    3

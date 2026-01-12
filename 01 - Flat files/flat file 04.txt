@@ -1,0 +1,17 @@
+comment: sample records from last year
+Name,Sex,Age,Income
+John,M,26,30000
+Sarah,F,21,NDA
+comment: continuation of record
+Paul,M,22,25000
+Greg,M,24,NDA
+Christine,F,20,24000
+comment: continuation of record
+Felice,F,28,30000
+Laurence,M,23,28000
+Hannah,F,25,30000
+Diane,F,24,26000
+Rico,M,29,NDA
+comment: ends here
+
+
