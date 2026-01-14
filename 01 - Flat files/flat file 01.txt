@@ -1,0 +1,13 @@
+Name, Sex, Age
+"John", , 26
+Sarah, F, 21
+Paul, M, NA
+Greg, M, 24
+    Christine, F, 20
+  Felice, F, 28
+Laurence,    M, 23
+Hannad,    F, NA
+Diane,   F, 24
+Rico, M, 29
+
+

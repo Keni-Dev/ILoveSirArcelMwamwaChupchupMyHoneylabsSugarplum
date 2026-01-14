@@ -1,0 +1,10 @@
+John      M  26 30000
+Sarah     F  21      
+Paul      M  22 25000
+Greg      M  24      
+Christine F  20 24000
+Felice    F  28 30000
+Laurence  M  23 28000
+Hannah    F  25 30000
+Diane     F  24 26000
+Rico      M  29      

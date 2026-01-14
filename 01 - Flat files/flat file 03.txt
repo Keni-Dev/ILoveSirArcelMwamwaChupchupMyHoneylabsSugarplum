@@ -1,0 +1,13 @@
+Name,Sex,Age,Income
+'Dela Cruz, John',M,26,30000
+'Gomez, Sarah',F,21,NDA
+'Santos, Paul',M,22,25000
+'Fernandez, Greg',M,24,NDA
+'Wong, Christine',F,20,24000
+'Tan, Felice',F,28,30000
+'Cruz, Laurence',M,23,28000
+'Bautista, Hannah',F,25,30000
+'Rodriguez, Diane',F,24,26000
+'De Leon, Rico',M,29,NDA
+
+

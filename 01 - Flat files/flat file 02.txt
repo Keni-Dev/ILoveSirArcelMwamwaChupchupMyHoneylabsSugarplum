@@ -1,0 +1,13 @@
+start
+John, M, 26
+Sarah, F, 21
+Paul, M, 22
+Greg, M, 24
+Christine, F, 20
+Felice, F, 28
+Laurence, M, 23
+Hannad, F, 25
+Diane, F, 24
+Rico, M, 29
+end
+
